@@ -14,7 +14,7 @@ class DemoApplicationTests {
 	void contextLoads() {
 		
 		logger.info("(\"Test Execution\")");
-		logger.info("(\"Test Exec\")");
+		logger.info("(\"Test Exec\")")
 		assertEquals("true","true");
 	}
 
